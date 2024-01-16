@@ -1,0 +1,13 @@
+{
+    "actionOnStepFail": "stop", 
+    "archiveKey": "cubi510mwin10lan", 
+    "deployPath": "{automationWorkerBaseDirectoryUnixFormat}\\drivers-{newNode.fqn}", 
+    "enabled": true, 
+    "externalUuid4": "4a0b55e9-9c02-4159-a866-5c0e856241a6", 
+    "key": "pushcubi510mwin10landriverstoadropdirectoryonwindows", 
+    "name": "Push Cubi 5 10M Win10 - LAN Drivers to a Drop Directory on Windows", 
+    "osCredKey": "automationworkeruser", 
+    "serverKey": "automationworkernode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

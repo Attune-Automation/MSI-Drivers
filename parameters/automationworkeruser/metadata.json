@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "dec634ab-64c1-44ea-b76c-8a9f4b086405", 
+    "key": "automationworkeruser", 
+    "name": "Automation Worker User", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.OsCred"
+}

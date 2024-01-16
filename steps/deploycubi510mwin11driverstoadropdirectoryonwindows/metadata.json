@@ -1,0 +1,16 @@
+{
+    "actionOnStepFail": "stop", 
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "01a46e75-5656-4b0b-b61e-50a7b013ddc6", 
+    "isBlueprint": true, 
+    "key": "deploycubi510mwin11driverstoadropdirectoryonwindows", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "pushcubi510mwin11landriverstoadropdirectoryonwindows"
+        }
+    ], 
+    "name": "Deploy Cubi 5 10M Win11 Drivers to a Drop Directory on Windows", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

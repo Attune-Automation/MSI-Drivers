@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "e635e4e3-24ab-493e-8e15-6377e195194c", 
+    "key": "automationworkernode", 
+    "name": "Automation Worker Node", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.Server"
+}

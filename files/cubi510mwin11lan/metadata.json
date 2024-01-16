@@ -1,0 +1,11 @@
+{
+    "externalUuid4": "c877d788-a0fd-4d1e-b0f0-05b5b53786a3", 
+    "fileName": "lan-i219-12.19.1.37.zip", 
+    "formatKey": "zip", 
+    "key": "cubi510mwin11lan", 
+    "md5": "b1d28dfcff7e93389c9c990b5ce7f73a", 
+    "name": "Cubi 5 10M Win11 - LAN", 
+    "remoteUri": "https://download.msi.com/dvr_exe/desktop/lan-i219-12.19.1.37.zip", 
+    "size": 534873, 
+    "type": "com.servertribe.attune.tuples.FileArchiveLargeTuple"
+}
